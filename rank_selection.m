@@ -1,3 +1,4 @@
+% Pass through the fitness, chromosome and population.
 function [selectedParent] = rank_selection(fitnessStorage, chrome, population)
 
 % Temporarily storing fitnesses
